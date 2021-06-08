@@ -10,7 +10,7 @@ setuptools.setup(
   author_email="skull.ai.research@gmail.com",
   description="yannlp",
   long_description=long_description,
-  long_description_content_type="README.md",
+  long_description_content_type="text/markdown",
   url="https://github.com/skull-ai-research/yanlp",
   packages=setuptools.find_packages(),
   classifiers=[
